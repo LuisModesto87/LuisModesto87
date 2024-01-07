@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisModesto87
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning html and css ( i'm a newbie 🤣 )
+- 🌱 I’m currently learning html, css, php and MySQL ( i'm a newbie 🤣 )
   
 - 📫 How to reach me : luismartinsmodesto@gmail.com
 
